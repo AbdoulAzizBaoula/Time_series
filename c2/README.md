@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AbdoulAzizBaoula/Time_series/c2/Notebooks/main?labpath=Introduction_to_Stationarity_student.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AbdoulAzizBaoula/Time_series/main?déposerpath=Introduction_to_Time_Series_student.ipynb)
 
 # ct_intel_timeseries
 
